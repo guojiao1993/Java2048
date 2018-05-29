@@ -7,7 +7,7 @@ import javax.swing.*;
 public class Java2048 extends JFrame implements KeyListener{
 
     /**
-     * @author guojiao1993
+     * @author guojiao1993 ?
      */
     private static final long serialVersionUID = 1L;
     Color background = new Color(187, 173, 160);// 背景色
